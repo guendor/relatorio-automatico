@@ -66,3 +66,4 @@ pyperclip.copy(texto)
 pyautogui.hotkey('ctrl', 'v')
 pyautogui.click(x=387, y=928)
 pyautogui.alert('Email Enviado')
+# fim
