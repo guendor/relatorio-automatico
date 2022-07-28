@@ -9,9 +9,12 @@
 </p>
 
 <p align='center' id='badges'>
-<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow" alt="Badge em Desenvolvimento">
+<img src="https://img.shields.io/badge/Status-Finalizado-brightgreen" alt="Badge Finalizado">
 <img src='https://img.shields.io/badge/Version-V1.0-blue' alt='Badge Versão'>
+<img src='https://img.shields.io/github/issues/guendor/relatorio-automatico' alt='Badge Issues'>
+<img src='https://img.shields.io/github/forks/guendor/relatorio-automatico' alt='Badge Forks'>
 <img src='https://img.shields.io/github/stars/guendor?style=social' alt='Badge Stars'>
+<img src='https://img.shields.io/github/license/guendor/relatorio-automatico' alt='Badge License'>
 </p>
 
 <p id='descriçao-do-projeto'>
